@@ -1,7 +1,14 @@
 {
-  "Version": "1.1",
-  "DownloadUrl": "http://www.mediafire.com/file/aagcyn3a7pe1grs/Kvex+RTM+Tool.exe",
-  "ChangeLog": "awdsadw",
+  "Version": "1.0.0.0",
+  "DownloadUrl": "media fire link",
+  "ChangeLog": "Anything",
   "IsClosed": false,
-  "ClosedMessage": "Im So Angry"
+  "ClosedMessage": "The Tool Has Been Closed"
+
+"WhiteList" [
+"waleed"
+]
+"BlackList" [
+"Salman"
+]
 }
