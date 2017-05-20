@@ -2,7 +2,7 @@
   "Version": "1.0.0.0",
   "DownloadUrl": "media fire link",
   "ChangeLog": "Anything",
-  "IsClosed": "false",
+  "IsClosed": "true",
   "ClosedMessage": "The Tool Has Been Closed",
 
   "WhiteList": [
