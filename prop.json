@@ -5,10 +5,10 @@
   "IsClosed": false,
   "ClosedMessage": "The Tool Has Been Closed",
 
-"WhiteList": [
-"waleed"
-],
-"BlackList":[
-"Salman"
-]
+  "WhiteList": [
+   "waleed"
+  ],
+  "BlackList":[
+   "Salman"
+  ]
 }
