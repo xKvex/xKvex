@@ -1,0 +1,31 @@
+Message
+- Don't connect the tool in InGame it will freeze
+- You should connect the tool in lobby
+- The tool should connect in "5-10sec" if it takes more then the tool  won't can't connect the
+- Don't shutdown the pc when the tool is open it might cause some trouble :)
+- If you found a bug send me a Feedback or conact me on skype (iKvex™)
+- The might not connect when using SPRX with it
+- Set "/dev_hdd0/tmp" folder permission to "777" (http://prnt.sc/8hyt5a)
+- Fixed all the bugs so it should work fine now
+
+Change Log:
+ >Next Update
+  -IP Spoofer
+  -Hide ID
+  -Freeze PS3
+>Initial Release
+  -Anti-Freeze
+  -Anti-End Game
+  -Anti-Kick Host
+  -IP-Grabber
+  -AllJoinable
+  -Unlimited Invites
+  -Increase name length to 31
+  -Join people even if you have changed your name
+
+> Credits:
+ - B777x
+ - BISOON
+ - iiTooB
+ - xGcWr
+ - iHnKI-
